@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mirg/static/css/main.8f3a763b.css",
+    "main.js": "/mirg/static/js/main.14168201.js",
+    "static/js/453.8ab44547.chunk.js": "/mirg/static/js/453.8ab44547.chunk.js",
+    "static/media/heroimg.png": "/mirg/static/media/heroimg.3a97786a8c19cdd9d6bb.png",
+    "index.html": "/mirg/index.html",
+    "main.8f3a763b.css.map": "/mirg/static/css/main.8f3a763b.css.map",
+    "main.14168201.js.map": "/mirg/static/js/main.14168201.js.map",
+    "453.8ab44547.chunk.js.map": "/mirg/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f3a763b.css",
+    "static/js/main.14168201.js"
+  ]
+}
